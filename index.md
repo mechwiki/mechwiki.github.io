@@ -9,7 +9,7 @@ Hello everyone, I decided with the death of Reddit that I would attempt to port 
 
 ### "What Keyboard/Switch DO I Buy?"
 
-[REDDIT KEYBOARD BUYING GUIDE](https://mechwiki.github.io/buying-guide.md) Because ALL of us started somewhere!
+[REDDIT KEYBOARD BUYING GUIDE](https://mechwiki.github.io/docs/buying-guide.md) Because ALL of us started somewhere!
 
 ### Where to BUY and SELL keyboards and keys
 
