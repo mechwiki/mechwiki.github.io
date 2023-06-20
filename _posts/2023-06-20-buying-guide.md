@@ -1,3 +1,8 @@
+---
+layout: post
+title:  "Buying Guide"
+---
+
 # Reddit Mechanical Keyboard Buying Guide
 
 [WHAT KEYBOARD SHOULD I BUY!](https://gfycat.com/AssuredImpossibleGoldfinch) meme ([Source](https://www.teddit.net/r/MechanicalKeyboards/comments/3sp8qr/mrw_im_deciding_what_will_be_my_first_keyboard/))
