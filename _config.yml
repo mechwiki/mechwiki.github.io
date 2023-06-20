@@ -1,8 +1,11 @@
-title: Just the Docs Template
-description: A starter template for a Jeykll site using the Just the Docs theme!
+title: Mechanical Keyboard Wiki
+description: The r/mk wiki
 remote_theme: just-the-docs/just-the-docs@v0.5.2
 
-url: https://just-the-docs.github.io
+url: https://mechwiki.github.io
 
 aux_links:
   Template Repository: https://github.com/just-the-docs/just-the-docs-template
+
+
+logo: "/assets/images/logo.webp"
