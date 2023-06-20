@@ -1,7 +1,8 @@
 ---
 layout: post
 title:  "Buying Guide"
-nav_order: 2
+nav_order: 1
+has_toc: true
 ---
 
 # Reddit Mechanical Keyboard Buying Guide
