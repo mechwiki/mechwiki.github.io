@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Buying Guide"
+title:  "Mechanical Keyboard Overviews"
 nav_order: 3
 has_toc: true
 ---
