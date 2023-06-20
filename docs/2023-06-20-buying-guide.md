@@ -4,6 +4,15 @@ title:  "Buying Guide"
 nav_order: 1
 has_toc: true
 ---
+# Navigation Structure
+{: .no_toc }
+
+## Table of contents
+{: .no_toc .text-delta }
+
+1. TOC
+{:toc}
+
 
 # Reddit Mechanical Keyboard Buying Guide
 
